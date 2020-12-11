@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   s.source_files = "About/Classes/**/*.{swift}"
   #s.dependency 'Alamofire'
    
-  s.resources = "About/Classes/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+  s.resources = "About/Assets/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
    
   s.swift_version = "5.1"
    
